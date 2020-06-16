@@ -1,0 +1,15 @@
+.mainHead{
+    margin: 0px;
+    padding: 60%, 60%, 60%; 
+    background: rgb(5, 167, 216);
+    color: rgb(231, 0, 0);
+    text-align: center;
+    font-size: 400%;
+    Font-Family: 'Dosis', Sans-Serif;
+}
+#login{
+    color: red;
+}
+.blog{
+    background-color: blueviolet;
+}
